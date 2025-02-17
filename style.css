@@ -16,3 +16,9 @@
     border: 1px solid black;
     margin: auto;
 }
+
+.message {
+    text-align: center;
+    padding: 10px;
+    font-size: 1.3em;
+}
